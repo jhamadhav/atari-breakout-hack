@@ -6,11 +6,13 @@
 *Automating game using openCV in python*
 
 ## **Original Game:**
+
  Atari Breakout is a hidden Google game which turns Google Images into a playable classic arcade video game with a Google twist. The aim of the game is to bat the ball at the colored blocks until there are none left, while making sure the ball does not pass your paddle.
 
 Game link: https://elgoog.im/breakout
 
 ## **Automated Game using OpenCV:**
+
  The original Game operates through user by mouse or keyboard keys. But in the automated Version, the game requires no such operations from user. Game is played automatically by object detection and template matching.
 
 ## Team Details
@@ -35,17 +37,19 @@ Team Name: ***thisDot***
 4. Running the code.
 
 # ⭐Understanding the code
-**Libraries used in the code:**
->1. ***openCV*** for object detection and template matching
+
+## **Libraries used in the code:**
+
+1. ***openCV*** for object detection and template matching
 The game contains a ball(object which has to be detected) which moves accordingly after hitting the slider in specific path. For automating the game
-> The ball image is read through the method cv2.imgread and detected through cv2.matchTemplate
+The ball image is read through the method cv2.imgread and detected through cv2.matchTemplate
 
 2. ***numpy*** 
 3. ***matplotlib.pyplot*** as plt
 4. ***pyautogui*** for keyboard functionality
 5. ***ImageGrab*** for capturing screen.
 
-***_Functions Used_***
+## ***Functions Used***
 1. ***def showImg*** -for displaying Image
 2. ***def readImg*** - for reading Image
 3. ***def grab_screen_img*** - for capturing screen
@@ -58,10 +62,15 @@ The game contains a ball(object which has to be detected) which moves accordingl
 4. Using values after many games we change the position of the `platform` with regards to the ball current position + acceleration in X and Y positions + etc.
 
 ## **NOTE:** To break from the while loop press `q`
+ 
+<br>
+
+# Here's Our HighScore, think you can beat it ?? 🤔
+![HighScore](./assets/highScore.jpg)
 
 # ⭐Important Links
 Github repo: https://github.com/jhamadhav/atari-breakout-hack <br>
-Demo video: [link](./assets/thisDot-atari-break-out-hack-demo.mp4) <br>
+Demo video: [link](./thisDot-atari-break-out-hack-demo.mp4) <br>
 Youtube link for HighScore video: https://youtu.be/NGpsUYme_vk <br>
 Drive link for HighScore video: https://drive.google.com/folderview?id=1abjxEn0O53cpht0BiNOV0o6mRnGguA5s <br>
 
