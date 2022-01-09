@@ -61,7 +61,8 @@ The game contains a ball(object which has to be detected) which moves accordingl
 
 # ⭐Important Links
 Github repo: https://github.com/jhamadhav/atari-breakout-hack <br>
-[Demo video link](./assets/thisDot-atari-break-out-hack-demo.mp4) <br>
-Highscore video: https://drive.google.com/folderview?id=1abjxEn0O53cpht0BiNOV0o6mRnGguA5s <br>
+Demo video: [link](./assets/thisDot-atari-break-out-hack-demo.mp4) <br>
+Youtube link for HighScore video: https://youtu.be/NGpsUYme_vk <br>
+Drive link for HighScore video: https://drive.google.com/folderview?id=1abjxEn0O53cpht0BiNOV0o6mRnGguA5s <br>
 
 ## Thank you !!! 🎉🥳
