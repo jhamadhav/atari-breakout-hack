@@ -2,6 +2,9 @@
 
 ![logo](https://user-images.githubusercontent.com/86847380/148658524-f320d55d-24e0-452f-9bb2-3e3a3eedc5d9.png)
 
+## Update:
+We won the Hackathon [IIT Goa's Cepheus: HackTheGame](https://iitgoa.ac.in/cepheus/#/cepheus/workshops/hackTheGames) 🎉🥳
+
 # ⭐Introduction 
 *Automating game using openCV in python*
 
