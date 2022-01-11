@@ -20,7 +20,7 @@ Game link: https://elgoog.im/breakout
 
 ## Team Details
 Team Name: ***thisDot***
-1. Madhav jha  (**F4ABBC53**)
+1. Madhav jha  (**f4a88c53**)
 2. Anjali kushwaha  (**EEBAE845**)
 
 # ⭐Getting Started
